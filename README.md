@@ -43,7 +43,7 @@ https://github.com/can1357/NoVmp
 
 https://github.com/archercreat/vmpfix 
 
-https://github.com/xiaoyu777-coder/MogVMP
+https://github.com/eversinc33/MogVMP
 
 https://github.com/void-stack/VMUnprotect 
 
